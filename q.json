@@ -1,0 +1,154 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Space",
+        "question": "Hava ve uzay araçları tasarımı ve geliştirilmesi konusunda; Aerodinamik, Uçuş Mekaniği ve Kontrol, Yapı ve Malzeme, İtki olarak dört ana uzmanlık alanı bulunan mühendislik aşağıdakilerden hangisidir?",
+        "correct_answer": "C) Havacılık ve Uzay Mühendisliği",
+        "incorrect_answers": [
+          "A) Biyomedikal Mühendisliği",
+          "B) Yazılım Mühendisliği",
+          "D) Jeoloji Mühendisliği"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Space",
+        "question": """Havacılık ve Uzay Mühendisliğinden mezun olanlar nerede çalışır?
+        I-Havacılık ve Uzay konularında çalışan Sivil Havacılık şirketlerinde
+        II-Havacılık ve Uzay konularında uzmanlaşan Teknokent şirketlerinde
+        III-Savunma Sanayii şirketlerinde
+        IV-Üniversitelerde ve Araştırma Enstitülerinde""",
+        "correct_answer": "D) I-II-III-IV",
+        "incorrect_answers": [
+          "A) Yalnız I",
+          "B) I-II",
+          "C) I-II-III"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Space",
+        "question": "19 Ocak 2024 tarihinde uzaya giden ilk Türk astronot aşağıdakilerden hangisidir?",
+        "correct_answer": "A) Tuva Cihangir ATASEVER",
+        "incorrect_answers": [
+          "B) Selçuk BAYRAKTAR",
+          "C) Alper GEZERAVCI",
+          "D) Vecihi HÜRKUŞ"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Space",
+        "question": "Türkiye’nin ilk uzay yolculuğuna yedek olarak belirlenen astronot aşağıdakilerden hangisidir?",
+        "correct_answer": "B) Tuva Cihangir ATASEVER",
+        "incorrect_answers": [
+          "A) Vecihi HÜRKUŞ",
+          "C) Selçuk BAYRAKTAR",
+          "D) Alper GEZERAVCI"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Space",
+        "question": "1924’te İlk Türk uçağını tasarlayan ve üreten kişi kimdir?",
+        "correct_answer": "D) Vecihi HÜRKUŞ",
+        "incorrect_answers": [
+          "A) Tuva Cihangir ATASEVER",
+          "B) Selçuk BAYRAKTAR",
+          "C) Alper GEZERAVCI"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "İnsanlara ait olan düşünme, yorumlama ve çıkarım yapma yetilerini bilgisayarlara kazandırmayı hedefleyen çalışmalara verilen ortak ad nedir?",
+        "correct_answer": "B) Yapay  Zeka",
+        "incorrect_answers": [
+          "A) Duygusal Zeka",
+          "C) Bilişsel Zeka",
+          "D) Matematiksel – Mantıksal Zeka"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Aşağıdakilerden hangisi Yapay Zekanın alt disiplinlerinden biri değildir?",
+        "correct_answer": "D) Güç Elektroniği",
+        "incorrect_answers": [
+          "A) Robotik",
+          "B) Veri Haberleşme Ağları",
+          "C) Oyun Teknolojileri ve Biyoinformatik"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Başta uzay ve savunma teknolojileri, bankacılık, otomotiv, telekomünikasyon vb. sektörler olmak üzere her alanda kullanılan bilgisayar sistemlerine, yazılım tasarımını hazırlayan, sisteme entegre işlemini gerçekleştiren ve uygulamasını yapan kişiye ne ad verilir?",
+        "correct_answer": "D) Yazılım Mühendisi",
+        "incorrect_answers": [
+          "A) Çevre Mühendisi",
+          "B) Haberleşme Mühendisi",
+          "C) Jeoloji Mühendisi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Sistem analisti, sistem mühendisi, tasarım mühendisi, web tasarım ve programlama uzmanı, bilişim teknolojileri uzmanı ve uygulama programcısı olarak hemen her kurum ve kuruluşun çeşitli bölümlerinde çalışma imkanına sahip mühendislik alanı aşağıdakilerden hangisidir?",
+        "correct_answer": "C) Yazılım Mühendisliği",
+        "incorrect_answers": [
+          "A) Endüstri Mühendisliği",
+          "B) Kimya Mühendisliği",
+          "D) Maden Mühendisliği"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Finansal açıdan risk değerlendirmesi yapan, buna bağlı çözüm yolları geliştiren ve geliştirdiği önerileri sunarak uzun vadede ortaya çıkabilecek neticeleri analiz eden, bu değerlendirmeleri yaparken; ölüm, yaralanma, hastalanma, sakatlanma ya da emeklilik gibi durumların yanında, afetleri de içine alan bir risk değerlendirmesi yapan,  risk analizi sonucunda, finansal kayıpları engelleme ya da en aza indirme yolunda bazı adımlar atılmasını sağlayan uzmana ne ad verilir?",
+        "correct_answer": "B) Aktüerya Uzmanı",
+        "incorrect_answers": [
+          "A) Network Uzmanı",
+          "C) Sosyal Hizmet Uzmanı",
+          "D) Veri Güvenliği Uzmanı"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Firmaların büyük ve karmaşık veri yığınlarını inceleyip analiz eden, bu verileri organize etme ve işler hale getirme sorumluluğuna sahip profesyonellere ne ad verilir?",
+        "correct_answer": "A)Büyük Veri Mühendisi",
+        "incorrect_answers": [
+          "B)Endüstri Mühendisi",
+          "C)Jeoloji Mühendisi",
+          "D)Makine Mühendisi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Kendine özgü yetkinlikleri ve eğitimi ile insansız hava aracını belirli bir iş kolunu icra etmek için yönetip kullanan kişilere ne ad verilir?",
+        "correct_answer": "D) Drone Pilotu",
+        "incorrect_answers": [
+          "A) Uçak Mühendisi",
+          "B) Zeplin Pilotu",
+          "C) Uçak Pilotu"
+        ]
+      }
+    ]
+  }
+  
