@@ -17,11 +17,11 @@
         "type": "multiple",
         "difficulty": "medium",
         "category": "Science: Space",
-        "question": """Havacılık ve Uzay Mühendisliğinden mezun olanlar nerede çalışır?
+        "question": "Havacılık ve Uzay Mühendisliğinden mezun olanlar nerede çalışır?
         I-Havacılık ve Uzay konularında çalışan Sivil Havacılık şirketlerinde
         II-Havacılık ve Uzay konularında uzmanlaşan Teknokent şirketlerinde
         III-Savunma Sanayii şirketlerinde
-        IV-Üniversitelerde ve Araştırma Enstitülerinde""",
+        IV-Üniversitelerde ve Araştırma Enstitülerinde",
         "correct_answer": "D) I-II-III-IV",
         "incorrect_answers": [
           "A) Yalnız I",
