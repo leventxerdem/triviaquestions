@@ -132,7 +132,42 @@
           "B) Zeplin Pilotu",
           "C) Uçak Pilotu"
         ]
-      }
+      },{
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Robotların onarımları ve bakımının yanında etkili çalışma prensiplerini gözden geçiren uzmanlara ne ad verilir?",
+      "correct_answer": "C) Robot Koordinasyon Uzmanı",
+      "incorrect_answers": [
+        "A) Epidemiyoloji Uzmanı",
+        "B) Aktüerya Uzmanı",
+        "E) Blockchain Uzmanı"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Sizce hangisi geleceğin meslekleri arasında yer almaz?",
+      "correct_answer": "C) Lostracılık",
+      "incorrect_answers": [
+        "A) Akıllı Şehir Uzmanlığı",
+        "B) 3D Üretim Mühendisliği",
+        "D) Mobil Uygulama ve Oyun Geliştirme Uzmanlığı"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Sizce hangisi geleceğin meslekleri arasında yer almaz?",
+      "correct_answer": "B) Külekçi",
+      "incorrect_answers": [
+        "A) Endüstriyel Veri Bilimci",
+        "C) Prompt Mühendisi",
+        "D) Dijital Veri Dedektifi"
+      ]
+    }
     ]
   }
   
