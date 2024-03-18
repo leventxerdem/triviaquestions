@@ -18,10 +18,10 @@
         "difficulty": "medium",
         "category": "Science: Space",
         "question": "19 Ocak 2024 tarihinde uzaya giden ilk Türk astronot aşağıdakilerden hangisidir?",
-        "correct_answer": "A) Tuva Cihangir ATASEVER",
+        "correct_answer": "C) Alper GEZERAVCI",
         "incorrect_answers": [
+          "A) Tuva Cihangir ATASEVER",
           "B) Selçuk BAYRAKTAR",
-          "C) Alper GEZERAVCI",
           "D) Vecihi HÜRKUŞ"
         ]
       },
